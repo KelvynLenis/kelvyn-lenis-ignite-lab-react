@@ -4,6 +4,7 @@ Project made on Ignite Lab promotted by Rocketseat
 Techs:
   - React
   - GraphQl
+  - Apollo
   
 # Preview
 Run `npm run dev` to run and see this project.
